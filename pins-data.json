@@ -1,7 +1,7 @@
 [
   {
     "author": {
-      "avatar": "img/avatars/user01.png"
+      "avatar": "img/avatars/user01.jpg"
     },
     "offer": {
       "title": "Cozy and Charming",
@@ -38,7 +38,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user02.png"
+      "avatar": "img/avatars/user02.jpg"
     },
     "offer": {
       "title": "Small apartment near a park",
@@ -66,7 +66,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user03.png"
+      "avatar": "img/avatars/user03.jpg"
     },
     "offer": {
       "title": "Beautiful villa with a beautiful view",
@@ -88,7 +88,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user04.png"
+      "avatar": "img/avatars/user04.jpg"
     },
     "offer": {
       "title": "Interior design for your soul",
@@ -130,7 +130,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user05.png"
+      "avatar": "img/avatars/user05.jpg"
     },
     "offer": {
       "title": "Luxury Villa 5 minutes away from beach",
@@ -161,7 +161,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/default.png"
+      "avatar": "img/avatars/default.jpg"
     },
     "offer": {
       "title": "Villa near beach for surfers",
@@ -192,7 +192,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user06.png"
+      "avatar": "img/avatars/user06.jpg"
     },
     "offer": {
       "title": "Apartment with history",
@@ -224,7 +224,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user07.png"
+      "avatar": "img/avatars/user07.jpg"
     },
     "offer": {
       "title": "Place for animal lovers and their pets",
@@ -256,7 +256,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/user08.png"
+      "avatar": "img/avatars/user08.jpg"
     },
     "offer": {
       "title": "A balcony in front of the Botanical Garden",
@@ -287,7 +287,7 @@
   },
   {
     "author": {
-      "avatar": "img/avatars/default.png"
+      "avatar": "img/avatars/default.jpg"
     },
     "offer": {
       "title": "The Garden Rooftop",
